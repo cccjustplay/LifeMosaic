@@ -6,7 +6,7 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Tech](https://img.shields.io/badge/tech-Next.js%20%7C%20IndexedDB%20%7C%20PWA-black)
 
-## ✨ Core Philosophy (核心理念)
+## ✨ Core Philosophy
 
 Life rushes by. We experience a lot, but remember little. LifeMosaic is designed to fix that:
 
