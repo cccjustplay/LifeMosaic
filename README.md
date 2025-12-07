@@ -59,7 +59,3 @@ Life rushes by. We experience a lot, but remember little. LifeMosaic is designed
 ## 🤝 Contributing
 
 This is a personal project driven by passion. PRs are welcome!
-
-## 📄 License
-
-MIT © [Your Name]
